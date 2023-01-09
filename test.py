@@ -1,3 +1,5 @@
 print("hello world")
 n=int(input())
 print("Number is ",n)
+string1=input()
+print("Hello "+string1)
